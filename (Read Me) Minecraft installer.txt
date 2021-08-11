@@ -1,0 +1,15 @@
+Hello, so um follow these steps to have them ingame
+
+Follow this,
+AppData/Roaming/.minecraft
+
+Texturepacks:
+AppData/Roaming/.minecraft/resourcepacks
+
+Shaders:
+AppData/Roaming/.minecraft/shaderpacks
+
+Mods:
+AppData/Roaming/.minecraft/mods
+
+then just drop it there lol
